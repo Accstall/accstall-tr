@@ -1,5 +1,7 @@
 # 🛒 Accstall — Sosyal Medya Hesap Mağazası
 
+> 🇬🇧 For English version: [Accstall English](https://github.com/Accstall/Accstall)
+
 **Doğrulanmış sosyal medya hesaplarını anında otomatik teslimatla satın alın.**
 
 [🌐 Accstall'ı Ziyaret Et](https://accstall.com/tr) · [📋 SSS](https://accstall.com/tr/faq) · [📞 Destek](https://accstall.com/tr/contact) · [🐦 Twitter](https://x.com/accstallcom)
